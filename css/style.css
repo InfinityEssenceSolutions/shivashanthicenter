@@ -456,7 +456,7 @@ nav.navbar ul.nav li.scroll.active > a,
 nav.navbar.navbar-dark ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
 nav.navbar ul.nav li.dropdown.on > a,
 nav.navbar-dark ul.nav li.dropdown.on > a{
-    color: #ffc107 !important;
+    color: #fff !important;
 }
 
 @media(max-width:920px){
